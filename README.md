@@ -81,6 +81,5 @@ React Frontend
 
 
 💼 Author
-
 Khushi Wadhe
-Dark Mode UI
+
