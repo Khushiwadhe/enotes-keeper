@@ -46,13 +46,6 @@ A secure notes management web application built using Spring Boot. It allows use
 ### 🔍 Add Feature
 ![Add](Screenshots/notes-add/.png)
 
-### 🔍Register Page
-![Register](Screenshots/register-notes/.png)
-
-
-### 🔍 Edit Feature
-![Edit](Screenshots/edit-notes/.png)
-
 
 ---
 
