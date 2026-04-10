@@ -79,6 +79,55 @@ REST API (Spring Boot)
 JWT Authentication
 React Frontend
 
+## 🚀 Run the Project Locally (Using Docker)
 
+Follow these steps to run the project on your system:
+
+### 🔧 Prerequisites
+
+Make sure you have installed:
+
+* Java 21
+* Maven
+* Docker & Docker Compose
+
+---
+
+### ▶️ Steps to Run
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/Khushiwadhe/enotes-keeper.git
+cd enotes-keeper
+```
+
+2. **Build the project (create JAR file)**
+
+```bash
+mvn clean package
+```
+
+3. **Run using Docker Compose**
+
+```bash
+docker-compose up --build
+```
+
+---
+
+### 🌐 Access the Application
+
+Once everything is running, open your browser:
+
+👉 http://localhost:8080
+
+---
+
+### 🛑 Stop the Application
+
+```bash
+docker-compose down
+```
 
 
