@@ -108,7 +108,17 @@ cd enotes-keeper
 mvn clean package
 ```
 
-3. **Run using Docker Compose**
+or   
+
+  .\mvnw.cmd clean package -DskipTests
+
+
+
+
+3.   docker build -t enotes-app .
+
+   
+4.  **Run using Docker Compose** (directly)
 
 ```bash
 docker-compose up --build
