@@ -1,4 +1,4 @@
-# 📒 Enotes Keeper
+📒 Enotes Keeper
 
 A secure notes management web application built using Spring Boot. It allows users to register, login, and manage their personal notes with advanced features like search and pagination.
 
